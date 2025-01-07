@@ -4,7 +4,7 @@
 - 🐷 I’m currently learning programming
 - 😄 Pronouns: mechanic
 - ⚡ Fun fact: no????????????????
-- 🧑🏻‍💻 website : https://rafal13381.github.io
+- 🧑🏻‍💻 website : [link](https://rafal13381.github.io)
 
 [![dlaczego](https://media1.tenor.com/m/RNl_Us_MfCQAAAAC/dlaczego-flagi.gif)](https://www.youtube.com/watch?v=xwSu3FtWVz0)
 <!---
