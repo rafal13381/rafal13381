@@ -13,8 +13,9 @@ rafal13381/rafal13381 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ---
+
 ##Main Project
 - 📷 Instagram : [Youthplanner](https://www.instagram.com/youthplannerai/?utm_source=ig_web_button_share_sheet) 
-- 💻 Website : [Youthplanner](https://youthplanner.pl)
-- 📱 AppStore : [AppStore link](https://apps.apple.com/pl/app/youthplanner/id6756322915)
+- 💻 Website :   [Youthplanner](https://youthplanner.pl)
+- 📱 AppStore :  [AppStore link](https://apps.apple.com/pl/app/youthplanner/id6756322915)
 ---
